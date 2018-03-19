@@ -8,3 +8,5 @@ ZCZC W02 Menjalankan demo week02 dan mempelajari command dan bahasa C
 ZCZC W03 Demo DONE!!
 
 ZCZC W04 Doing demo pointer etc DONE!!
+
+ZCZC W05 Doing demo W05 in Badak!! DONE!!
