@@ -14,3 +14,5 @@ ZCZC W05 Doing demo W05 in Badak!! DONE!!
 ZCZC W06 DONE
 
 ZCZC W07 I'm Done!!
+
+ZCZC W08 done
